@@ -1,6 +1,7 @@
 # Dicoding - Belajar Android Jetpack Pro
 
 + Completed date : 27 April 2020
++ Update date : 31 Oktober 2022
 
 + Using Kotlin
 
